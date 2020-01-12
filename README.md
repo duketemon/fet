@@ -1,2 +1,0 @@
-# fet
-Feature Extraction Toolkit
