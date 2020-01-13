@@ -1,1 +1,3 @@
-from .dummy_features import generate_dummy_features
+from .dummy_features import generate_dummy_features_by_columns
+from .dummy_features import generate_dummy_features_by_data_type
+from .dummy_features import generate_dummy_features_by_column_prefix
