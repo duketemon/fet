@@ -11,7 +11,7 @@ def read(filename):
 
 setup(
     name='fet',
-    version='0.0.0.1',
+    version='0.0.1',
     license='BSD License',
     author='Artem Kuchumov',
     author_email='kuchumov7@gmail.com',
@@ -22,7 +22,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     packages=find_packages(),
-    keywords=['uplift modeling', 'machine learning', 'feature extraction', 'feature engineering'],
+    keywords=['machine learning', 'feature extraction', 'feature engineering', 'data analysis'],
     install_requires=[
         'pandas>=0.23.4',
     ],
